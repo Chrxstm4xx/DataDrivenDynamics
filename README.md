@@ -93,4 +93,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions, feedback, or inquiries, please contact us at support@datadrivendynamics.com
+For any questions, feedback, or inquiries, please contact us at contact@datadrivendynamics.com
